@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://studiolegaleavvgiovannitedesco.netlify.app/sitemap.xml
